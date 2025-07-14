@@ -1,4 +1,4 @@
-[PORTUGUÊS - pt-BR ](Readme.md)
+[PORTUGUÊS - pt-BR ](Readme.md.)
 # POO Challenge - iPhone UML and Java implementation 📱
 
 A challenge developed in collaboration between [Digital Innovation One](https://www.dio.me/) and the bank [Santander](https://www.santander.com.br/), it proposes exploring the functions of the iPhone through modeling in UML and implementation in Java, inspired by Steve Jobs' iconic 2007 conference. This project demonstrates how design, programming and innovation work together to create a revolutionary product.
