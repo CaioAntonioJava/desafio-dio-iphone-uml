@@ -53,7 +53,6 @@ classDiagram
     }
 
     class iPhone  {
-        +String modelo
         +Integer capacidadeArmazenamento
         +BigDecimal preco
     }
