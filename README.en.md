@@ -57,7 +57,7 @@ classDiagram
  }
 
 
-iPhone --> Music Player
-iPhone --> Handset
-iPhone --> Web Browser
+iPhone --> MusicPlayer
+iPhone --> phoneHandset
+iPhone --> Browser
 ```
